@@ -1,24 +1,47 @@
 {
   "item": {
-    "name": "·123456",
-    "description": "2123456",
+    "name": "OK School Life",
+    "description": "123",
     "preview": [
-      "review-band-about.png"
+      "review/band/review-band-about.png",
+      "review/band/review-band-achievement.png",
+      "review/band/review-band-index.png",
+      "review/band/review-band-main.png",
+      "review/band/review-band-main1.png",
+      "review/band/review-band-main2.png",
+      "review/band/review-band-main3.png",
+      "review/band/review-band-main4.png",
+      "review/bandPro/review-about.png",
+      "review/bandPro/review-achievement.png",
+      "review/bandPro/review-donation.png",
+      "review/bandPro/review-index.png",
+      "review/bandPro/review-load.png",
+      "review/bandPro/review-main.png",
+      "review/bandPro/review-main-1.png",
+      "review/bandPro/review-main-2.png"
     ],
     "icon": "icon.png",
-    "cover": "head@1x.png",
+    "cover": "head/head@1x.png",
     "source_url": "https://github.com/CheongSzesuen/test_AstroBox_Release",
     "author": [
       {
-        "name": "111",
-        "author_url": "2222"
+        "name": "12313",
+        "author_url": "21312313"
       }
     ]
   },
   "downloads": {
-    "n62": {
+    "n66": {
       "version": "1.0.0",
-      "file_name": "fun.okschoollife.miband.beta.release.0.3.0.rpk"
+      "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
+    },
+    "o66": {
+      "version": "1.0.0",
+      "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
+    },
+    "n67": {
+      "version": "1.0.0",
+      "file_name": "rpk/bandPro/fun.okschoollife.release.0.3.3.rpk"
     }
   }
 }
