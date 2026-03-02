@@ -1,32 +1,55 @@
 {
   "item": {
-    "id": "1234",
+    "id": "fun.okschoollife",
     "restype": "quick_app",
-    "name": "·123456",
-    "description": "2123456",
+    "name": "OK School Life",
+    "description": "123",
     "preview": [
-      "review-band-about.png"
+      "review/band/review-band-about.png",
+      "review/band/review-band-achievement.png",
+      "review/band/review-band-index.png",
+      "review/band/review-band-main.png",
+      "review/band/review-band-main1.png",
+      "review/band/review-band-main2.png",
+      "review/band/review-band-main3.png",
+      "review/band/review-band-main4.png",
+      "review/bandPro/review-about.png",
+      "review/bandPro/review-achievement.png",
+      "review/bandPro/review-donation.png",
+      "review/bandPro/review-index.png",
+      "review/bandPro/review-load.png",
+      "review/bandPro/review-main.png",
+      "review/bandPro/review-main-1.png",
+      "review/bandPro/review-main-2.png"
     ],
     "icon": "icon.png",
-    "cover": "head@1x.png",
+    "cover": "head/head@1x.png",
     "author": [
       {
-        "name": "111",
+        "name": "12313",
         "bindABAccount": true
       }
     ]
   },
   "links": [
     {
-      "icon": "address-book",
-      "title": "1234",
-      "url": "https://localhost:5173/cc/"
+      "icon": "align-center-horizontal",
+      "title": "1231",
+      "url": "https://localhost:5173/cc"
     }
   ],
   "downloads": {
-    "xmws3": {
+    "xmb9": {
       "version": "1.0.0",
-      "file_name": "fun.okschoollife.miband.beta.release.0.3.0.rpk"
+      "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "rpk/bandPro/fun.okschoollife.release.0.3.3.rpk"
     }
   },
   "ext": {}
