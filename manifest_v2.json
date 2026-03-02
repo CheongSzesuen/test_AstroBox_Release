@@ -1,0 +1,33 @@
+{
+  "item": {
+    "id": "1234",
+    "restype": "quick_app",
+    "name": "·123456",
+    "description": "2123456",
+    "preview": [
+      "review-band-about.png"
+    ],
+    "icon": "icon.png",
+    "cover": "head@1x.png",
+    "author": [
+      {
+        "name": "111",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "address-book",
+      "title": "1234",
+      "url": "https://localhost:5173/cc/"
+    }
+  ],
+  "downloads": {
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "fun.okschoollife.miband.beta.release.0.3.0.rpk"
+    }
+  },
+  "ext": {}
+}
