@@ -2,8 +2,8 @@
   "item": {
     "id": "fun.okschoollife",
     "restype": "quick_app",
-    "name": "OK School Life",
-    "description": "123",
+    "name": "OK School Life11",
+    "description": "123111",
     "preview": [
       "review/band/review-band-about.png",
       "review/band/review-band-achievement.png",
@@ -15,6 +15,9 @@
       "review/band/review-band-main4.png",
       "review/bandPro/review-about.png",
       "review/bandPro/review-achievement.png",
+      "review/bandPro/review-donation.png",
+      "review/bandPro/review-index.png",
+      "review/bandPro/review-load.png",
       "review/bandPro/review-main.png",
       "review/bandPro/review-main-1.png",
       "review/bandPro/review-main-2.png",
@@ -33,6 +36,11 @@
     {
       "icon": "align-center-horizontal",
       "title": "1231",
+      "url": "https://localhost:5173/cc"
+    },
+    {
+      "icon": "gitlab-logo",
+      "title": "111",
       "url": "https://localhost:5173/cc"
     }
   ],
