@@ -35,17 +35,17 @@
     "restype": "quick_app"
   },
   "downloads": {
-    "o66": {
+    "n66": {
       "version": "1.0.0",
       "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
     },
-    "n67": {
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
+    },
+    "xmws4": {
       "version": "1.0.0",
       "file_name": "rpk/bandPro/fun.okschoollife.release.0.3.3.rpk"
-    },
-    "xmb9": {
-      "version": "1.0.0",
-      "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
     }
   },
   "links": [],
