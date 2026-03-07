@@ -1,7 +1,5 @@
 {
   "item": {
-    "id": "fun.okschoollife",
-    "restype": "quick_app",
     "name": "OK School Life11",
     "description": "123111",
     "preview": [
@@ -25,38 +23,31 @@
     ],
     "icon": "icon.png",
     "cover": "head/head@1x.png",
+    "source_url": "https://github.com/CheongSzesuen/test_AstroBox_Release",
     "author": [
       {
         "name": "12313",
-        "bindABAccount": true
+        "bindABAccount": true,
+        "author_url": "21312313"
       }
-    ]
+    ],
+    "id": "fun.okschoollife",
+    "restype": "quick_app"
   },
-  "links": [
-    {
-      "icon": "align-center-horizontal",
-      "title": "1231",
-      "url": "https://localhost:5173/cc"
-    },
-    {
-      "icon": "gitlab-logo",
-      "title": "111",
-      "url": "https://localhost:5173/cc"
-    }
-  ],
   "downloads": {
+    "o66": {
+      "version": "1.0.0",
+      "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
+    },
+    "n67": {
+      "version": "1.0.0",
+      "file_name": "rpk/bandPro/fun.okschoollife.release.0.3.3.rpk"
+    },
     "xmb9": {
       "version": "1.0.0",
       "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
-    },
-    "xmb10": {
-      "version": "1.0.0",
-      "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
-    },
-    "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "rpk/bandPro/fun.okschoollife.release.0.3.3.rpk"
     }
   },
+  "links": [],
   "ext": {}
 }
