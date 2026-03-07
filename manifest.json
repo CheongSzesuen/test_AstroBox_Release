@@ -32,17 +32,17 @@
     ]
   },
   "downloads": {
-    "o66": {
-      "version": "1.0.0",
-      "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
-    },
-    "n67": {
-      "version": "1.0.0",
-      "file_name": "rpk/bandPro/fun.okschoollife.release.0.3.3.rpk"
-    },
     "n66": {
       "version": "1.0.0",
       "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
+    },
+    "o66nfc": {
+      "version": "1.0.0",
+      "file_name": "rpk/band/fun.okschoollife.release.0.3.3.rpk"
+    },
+    "o62": {
+      "version": "1.0.0",
+      "file_name": "rpk/bandPro/fun.okschoollife.release.0.3.3.rpk"
     }
   }
 }
